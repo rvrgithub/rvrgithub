@@ -1,8 +1,8 @@
-[![MasterHead](https://mediatemple.net/blog/wp-content/uploads/2014/04/blog-hero-image.png)](https://rvrgithub.io)
+[![MasterHead]( https://mediatemple.net/blog/wp-content/uploads/2014/04/blog-hero-image.png)](https://rvrgithub.io)
 
 <h1 align="center">Hi 👋, I'm Radhika Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="450" src="https://arunseo.com/wp-content/uploads/2021/02/contact-us.gif">
+<img align="right" alt="Coding" width="400" src="https://arunseo.com/wp-content/uploads/2021/02/contact-us.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rvrgithub&label=Profile%20views&color=0e75b6&style=flat" alt="rvrgithub" /> </p>
 
 - 🌱 I’m currently learning **React Native**
