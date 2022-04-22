@@ -1,13 +1,13 @@
-(https://rvrgithub.io)
 
-<h1 align="center">Hi 👋, I'm Radhika Verma</h1>
+
+<h1 align="left">Hi 👋, I'm Radhika Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://arunseo.com/wp-content/uploads/2021/02/contact-us.gif">
+<img align="right" alt="Coding" width="400" height="300" src="https://arunseo.com/wp-content/uploads/2021/02/contact-us.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rvrgithub&label=Profile%20views&color=0e75b6&style=flat" alt="rvrgithub" /> </p>
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **Data Structures and Algorithms, JavaScript, Node.js, MongoDB, React**
 
 - 📫 How to reach me **rvramayra1998@gmail.com**
 
