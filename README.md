@@ -1,4 +1,4 @@
-[![MasterHead]( https://mediatemple.net/blog/wp-content/uploads/2014/04/blog-hero-image.png)](https://rvrgithub.io)
+[![MasterHead]( )](https://rvrgithub.io)
 
 <h1 align="center">Hi 👋, I'm Radhika Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
