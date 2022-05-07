@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi 👋, I'm Radhika Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" height="300" src="https://tenor.com/view/scaler-create-impact-coding-programming-chill-gif-24991316">
+<img align="right" alt="Coding" width="400" height="300" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rvrgithub&label=Profile%20views&color=0e75b6&style=flat" alt="rvrgithub" /> </p>
 
 - 🌱 I’m currently learning **React Native**
