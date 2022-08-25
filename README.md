@@ -12,7 +12,7 @@ I'm a full-stack web developer specializing in MERN stack, passionate about codi
 
 
 * 🌍  I'm based in Haryana , India
-* 🖥️  See my portfolio at [My Portfolio](http://portfolio1-j5n5msgqf-rvrgithub.vercel.app/#hero)
+* 🖥️  See my portfolio at [My Portfolio](https://radhika-verma-irz48lrv8-rvrgithub.vercel.app/)
 * ✉️  You can contact me at [rvramayra1998@gmail.com](mailto:rvramayra1998@gmail.com)
 * 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wIJEx59wB8XVKjCuYSs3nyx4d9aWEmVQ/view?usp=sharing)
 * 🧠  I'm learning Data Structures and Algorithms | React | Redux | HTML5 | CSS3 | ES6 JavaScript | NodeJs | MongoDB | npm packages | Herocku | Chakra UI | React-Bootstrap
