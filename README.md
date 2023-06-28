@@ -51,7 +51,6 @@ I'm a full-stack web developer specializing in MERN stack, passionate about codi
 
 <a href="http://www.github.com/rvrgithub"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rvrgithub&stroke=ffffff&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/rvrgithub"><img src="[https://activity-graph/graph](https://github-readme-activity-graph.vercel.app/graph?username=rvrgithub)?username=rvrgithub&bg_color=000000&color=ffffff&line=6366f1&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 [![Radhika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
