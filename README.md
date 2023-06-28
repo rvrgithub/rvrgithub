@@ -11,11 +11,13 @@ Glad To See You Here!✨
 I'm a full-stack web developer specializing in MERN stack, passionate about coding and learning new technologies.
 
 
-* 🌍  I'm based in Haryana , India
+* 🌍  I'm based in Haryana, India
 * 🖥️  See my portfolio at [My Portfolio](https://radhika-verma-irz48lrv8-rvrgithub.vercel.app/)
 * ✉️  You can contact me at [rvramayra1998@gmail.com](mailto:rvramayra1998@gmail.com)
 * 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wIJEx59wB8XVKjCuYSs3nyx4d9aWEmVQ/view?usp=sharing)
-* 🧠  I'm learning Data Structures and Algorithms | React | Redux | HTML5 | CSS3 | ES6 JavaScript | NodeJs | MongoDB | npm packages | Herocku | Chakra UI | React-Bootstrap
+* 🧠  I'm learning Data Structures and Algorithms | React | Redux | React native | Flutter | HTML5 | CSS3 | ES6
+      JavaScript | NodeJs | MongoDB | npm packages | Heroku | Chakra UI |
+      React-Bootstrap | Material Ui
 
 ### Skills
 
@@ -23,6 +25,8 @@ I'm a full-stack web developer specializing in MERN stack, passionate about codi
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="36" height="36"/> </a>
+   </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="36" height="36"/> </a> 
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
