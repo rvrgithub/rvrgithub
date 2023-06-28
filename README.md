@@ -53,6 +53,6 @@ I'm a full-stack web developer specializing in MERN stack, passionate about codi
 
 
 
-[![Radhika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rvrgithub&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Radhika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rvrgithub&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/rvrgithub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvrgithub&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
